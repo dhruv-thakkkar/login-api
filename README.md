@@ -1,9 +1,10 @@
 # login-api
 Pls find the Login Test.postman_collection in the folder.
-Requirements:
-MongoDb with "Test" db
+
 
 List of APIs
+
+
 POST : Registration (To Register A New User)
 
 
